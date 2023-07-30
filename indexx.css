@@ -1,0 +1,28 @@
+*{margin: 0;}
+
+html{scroll-behavior: smooth;}
+
+section{
+    height: 100rex;
+} 
+nav ul { list-style: none;
+display:flex;
+gap: 2rem;
+position:fixed;
+height: 2rem;
+width: 0%;
+}
+#curriculum {
+    background-color:black;
+}
+#contato {
+    background-color: black}
+
+    nav{text-align:center;
+    margin-top: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+nav a{color:blue;
+text-decoration: double;}
+img {align-items: left;}
+.botao {background-color: hwb(179 46% 13% / 0.612)}
+.botao {border-color:rgb(76, 76, 241)}
